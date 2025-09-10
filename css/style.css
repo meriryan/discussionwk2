@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(219, 37, 37);
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.coke-pepsi {
+    background-image: linear-gradient(red, blue);
+    padding: 10px;
+    color: white;
+    border: 2px solid black;
+    font-size: x-large;
+    text-align: left;
+}
+
+p {
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+li {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+}
